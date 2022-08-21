@@ -5,4 +5,4 @@ The problem which faced a lot of people with active life position is forget abou
 
 You can watch some architecture, philosophy, concepts and ideas on [draw.io diagram](https://drive.google.com/file/d/1XMlAtVjUcw3czXLSjXygurBHA7vEjSNr/view?usp=sharing) *RU lang*
 
-If you want to collaborate you are welcome: look at kanban, add issues, or [write me email](mailto:alexon249@gmail.com), [Telegram](t.me/iamradaken)
+If you want to collaborate you are welcome: look at kanban, add issues, or [write me email](mailto:alexon249@gmail.com), [Telegram](https://t.me/iamradaken)
